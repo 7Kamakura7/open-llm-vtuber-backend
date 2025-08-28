@@ -178,9 +178,7 @@ pydub==0.25.1
     # via open-llm-vtuber (pyproject.toml)
 pygments==2.19.1
     # via rich
-pyobjc==11.0
     # via pyttsx3
-pyobjc-core==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-accessibility
@@ -332,64 +330,38 @@ pyobjc-core==11.0
     #   pyobjc-framework-virtualization
     #   pyobjc-framework-vision
     #   pyobjc-framework-webkit
-pyobjc-framework-accessibility==11.0
     # via pyobjc
-pyobjc-framework-accounts==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-cloudkit
-pyobjc-framework-addressbook==11.0
     # via pyobjc
-pyobjc-framework-adservices==11.0
     # via pyobjc
-pyobjc-framework-adsupport==11.0
     # via pyobjc
-pyobjc-framework-applescriptkit==11.0
     # via pyobjc
-pyobjc-framework-applescriptobjc==11.0
     # via pyobjc
-pyobjc-framework-applicationservices==11.0
     # via pyobjc
-pyobjc-framework-apptrackingtransparency==11.0
     # via pyobjc
-pyobjc-framework-audiovideobridging==11.0
     # via pyobjc
-pyobjc-framework-authenticationservices==11.0
     # via pyobjc
-pyobjc-framework-automaticassessmentconfiguration==11.0
     # via pyobjc
-pyobjc-framework-automator==11.0
     # via pyobjc
-pyobjc-framework-avfoundation==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-cinematic
     #   pyobjc-framework-mediaextension
     #   pyobjc-framework-mediaplayer
     #   pyobjc-framework-phase
-pyobjc-framework-avkit==11.0
     # via pyobjc
-pyobjc-framework-avrouting==11.0
     # via pyobjc
-pyobjc-framework-backgroundassets==11.0
     # via pyobjc
-pyobjc-framework-browserenginekit==11.0
     # via pyobjc
-pyobjc-framework-businesschat==11.0
     # via pyobjc
-pyobjc-framework-callkit==11.0
     # via pyobjc
-pyobjc-framework-carbon==11.0
     # via pyobjc
-pyobjc-framework-cfnetwork==11.0
     # via pyobjc
-pyobjc-framework-cinematic==11.0
     # via pyobjc
-pyobjc-framework-classkit==11.0
     # via pyobjc
-pyobjc-framework-cloudkit==11.0
     # via pyobjc
-pyobjc-framework-cocoa==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-accessibility
@@ -529,37 +501,27 @@ pyobjc-framework-cocoa==11.0
     #   pyobjc-framework-virtualization
     #   pyobjc-framework-vision
     #   pyobjc-framework-webkit
-pyobjc-framework-colorsync==11.0
     # via pyobjc
-pyobjc-framework-contacts==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-contactsui
-pyobjc-framework-contactsui==11.0
     # via pyobjc
-pyobjc-framework-coreaudio==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-avfoundation
     #   pyobjc-framework-browserenginekit
     #   pyobjc-framework-coreaudiokit
-pyobjc-framework-coreaudiokit==11.0
     # via pyobjc
-pyobjc-framework-corebluetooth==11.0
     # via pyobjc
-pyobjc-framework-coredata==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-cloudkit
     #   pyobjc-framework-syncservices
-pyobjc-framework-corehaptics==11.0
     # via pyobjc
-pyobjc-framework-corelocation==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-cloudkit
     #   pyobjc-framework-mapkit
-pyobjc-framework-coremedia==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-avfoundation
@@ -569,185 +531,107 @@ pyobjc-framework-coremedia==11.0
     #   pyobjc-framework-oslog
     #   pyobjc-framework-screencapturekit
     #   pyobjc-framework-videotoolbox
-pyobjc-framework-coremediaio==11.0
     # via pyobjc
-pyobjc-framework-coremidi==11.0
     # via pyobjc
-pyobjc-framework-coreml==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-vision
-pyobjc-framework-coremotion==11.0
     # via pyobjc
-pyobjc-framework-coreservices==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-launchservices
     #   pyobjc-framework-searchkit
-pyobjc-framework-corespotlight==11.0
     # via pyobjc
-pyobjc-framework-coretext==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-applicationservices
-pyobjc-framework-corewlan==11.0
     # via pyobjc
-pyobjc-framework-cryptotokenkit==11.0
     # via pyobjc
-pyobjc-framework-datadetection==11.0
     # via pyobjc
-pyobjc-framework-devicecheck==11.0
     # via pyobjc
-pyobjc-framework-devicediscoveryextension==11.0
     # via pyobjc
-pyobjc-framework-discrecording==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-discrecordingui
-pyobjc-framework-discrecordingui==11.0
     # via pyobjc
-pyobjc-framework-diskarbitration==11.0
     # via pyobjc
-pyobjc-framework-dvdplayback==11.0
     # via pyobjc
-pyobjc-framework-eventkit==11.0
     # via pyobjc
-pyobjc-framework-exceptionhandling==11.0
     # via pyobjc
-pyobjc-framework-executionpolicy==11.0
     # via pyobjc
-pyobjc-framework-extensionkit==11.0
     # via pyobjc
-pyobjc-framework-externalaccessory==11.0
     # via pyobjc
-pyobjc-framework-fileprovider==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-fileproviderui
-pyobjc-framework-fileproviderui==11.0
     # via pyobjc
-pyobjc-framework-findersync==11.0
     # via pyobjc
-pyobjc-framework-fsevents==11.0
     # via pyobjc-framework-coreservices
-pyobjc-framework-gamecenter==11.0
     # via pyobjc
-pyobjc-framework-gamecontroller==11.0
     # via pyobjc
-pyobjc-framework-gamekit==11.0
     # via pyobjc
-pyobjc-framework-gameplaykit==11.0
     # via pyobjc
-pyobjc-framework-healthkit==11.0
     # via pyobjc
-pyobjc-framework-imagecapturecore==11.0
     # via pyobjc
-pyobjc-framework-installerplugins==11.0
     # via pyobjc
-pyobjc-framework-intents==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-intentsui
-pyobjc-framework-intentsui==11.0
     # via pyobjc
-pyobjc-framework-iobluetooth==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-iobluetoothui
-pyobjc-framework-iobluetoothui==11.0
     # via pyobjc
-pyobjc-framework-iosurface==11.0
     # via pyobjc
-pyobjc-framework-ituneslibrary==11.0
     # via pyobjc
-pyobjc-framework-kernelmanagement==11.0
     # via pyobjc
-pyobjc-framework-latentsemanticmapping==11.0
     # via pyobjc
-pyobjc-framework-launchservices==11.0
     # via pyobjc
-pyobjc-framework-libdispatch==11.0
     # via pyobjc
-pyobjc-framework-libxpc==11.0
     # via pyobjc
-pyobjc-framework-linkpresentation==11.0
     # via pyobjc
-pyobjc-framework-localauthentication==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-localauthenticationembeddedui
-pyobjc-framework-localauthenticationembeddedui==11.0
     # via pyobjc
-pyobjc-framework-mailkit==11.0
     # via pyobjc
-pyobjc-framework-mapkit==11.0
     # via pyobjc
-pyobjc-framework-mediaaccessibility==11.0
     # via pyobjc
-pyobjc-framework-mediaextension==11.0
     # via pyobjc
-pyobjc-framework-medialibrary==11.0
     # via pyobjc
-pyobjc-framework-mediaplayer==11.0
     # via pyobjc
-pyobjc-framework-mediatoolbox==11.0
     # via pyobjc
-pyobjc-framework-metal==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-cinematic
     #   pyobjc-framework-metalfx
     #   pyobjc-framework-metalkit
     #   pyobjc-framework-metalperformanceshaders
-pyobjc-framework-metalfx==11.0
     # via pyobjc
-pyobjc-framework-metalkit==11.0
     # via pyobjc
-pyobjc-framework-metalperformanceshaders==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-metalperformanceshadersgraph
-pyobjc-framework-metalperformanceshadersgraph==11.0
     # via pyobjc
-pyobjc-framework-metrickit==11.0
     # via pyobjc
-pyobjc-framework-mlcompute==11.0
     # via pyobjc
-pyobjc-framework-modelio==11.0
     # via pyobjc
-pyobjc-framework-multipeerconnectivity==11.0
     # via pyobjc
-pyobjc-framework-naturallanguage==11.0
     # via pyobjc
-pyobjc-framework-netfs==11.0
     # via pyobjc
-pyobjc-framework-network==11.0
     # via pyobjc
-pyobjc-framework-networkextension==11.0
     # via pyobjc
-pyobjc-framework-notificationcenter==11.0
     # via pyobjc
-pyobjc-framework-opendirectory==11.0
     # via pyobjc
-pyobjc-framework-osakit==11.0
     # via pyobjc
-pyobjc-framework-oslog==11.0
     # via pyobjc
-pyobjc-framework-passkit==11.0
     # via pyobjc
-pyobjc-framework-pencilkit==11.0
     # via pyobjc
-pyobjc-framework-phase==11.0
     # via pyobjc
-pyobjc-framework-photos==11.0
     # via pyobjc
-pyobjc-framework-photosui==11.0
     # via pyobjc
-pyobjc-framework-preferencepanes==11.0
     # via pyobjc
-pyobjc-framework-pushkit==11.0
     # via pyobjc
-pyobjc-framework-quartz==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-accessibility
@@ -769,85 +653,50 @@ pyobjc-framework-quartz==11.0
     #   pyobjc-framework-spritekit
     #   pyobjc-framework-videotoolbox
     #   pyobjc-framework-vision
-pyobjc-framework-quicklookthumbnailing==11.0
     # via pyobjc
-pyobjc-framework-replaykit==11.0
     # via pyobjc
-pyobjc-framework-safariservices==11.0
     # via pyobjc
-pyobjc-framework-safetykit==11.0
     # via pyobjc
-pyobjc-framework-scenekit==11.0
     # via pyobjc
-pyobjc-framework-screencapturekit==11.0
     # via pyobjc
-pyobjc-framework-screensaver==11.0
     # via pyobjc
-pyobjc-framework-screentime==11.0
     # via pyobjc
-pyobjc-framework-searchkit==11.0
     # via pyobjc
-pyobjc-framework-security==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-localauthentication
     #   pyobjc-framework-securityfoundation
     #   pyobjc-framework-securityinterface
-pyobjc-framework-securityfoundation==11.0
     # via pyobjc
-pyobjc-framework-securityinterface==11.0
     # via pyobjc
-pyobjc-framework-sensitivecontentanalysis==11.0
     # via pyobjc
-pyobjc-framework-servicemanagement==11.0
     # via pyobjc
-pyobjc-framework-sharedwithyou==11.0
     # via pyobjc
-pyobjc-framework-sharedwithyoucore==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-sharedwithyou
-pyobjc-framework-shazamkit==11.0
     # via pyobjc
-pyobjc-framework-social==11.0
     # via pyobjc
-pyobjc-framework-soundanalysis==11.0
     # via pyobjc
-pyobjc-framework-speech==11.0
     # via pyobjc
-pyobjc-framework-spritekit==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-gameplaykit
-pyobjc-framework-storekit==11.0
     # via pyobjc
-pyobjc-framework-symbols==11.0
     # via pyobjc
-pyobjc-framework-syncservices==11.0
     # via pyobjc
-pyobjc-framework-systemconfiguration==11.0
     # via pyobjc
-pyobjc-framework-systemextensions==11.0
     # via pyobjc
-pyobjc-framework-threadnetwork==11.0
     # via pyobjc
-pyobjc-framework-uniformtypeidentifiers==11.0
     # via pyobjc
-pyobjc-framework-usernotifications==11.0
     # via
     #   pyobjc
     #   pyobjc-framework-usernotificationsui
-pyobjc-framework-usernotificationsui==11.0
     # via pyobjc
-pyobjc-framework-videosubscriberaccount==11.0
     # via pyobjc
-pyobjc-framework-videotoolbox==11.0
     # via pyobjc
-pyobjc-framework-virtualization==11.0
     # via pyobjc
-pyobjc-framework-vision==11.0
     # via pyobjc
-pyobjc-framework-webkit==11.0
     # via pyobjc
 pysbd==0.3.4
     # via open-llm-vtuber (pyproject.toml)
@@ -880,7 +729,7 @@ scipy==1.15.2
     # via open-llm-vtuber (pyproject.toml)
 shellingham==1.5.4
     # via typer
-sherpa-onnx==1.11.3
+sherpa-onnx==1.10.46
     # via open-llm-vtuber (pyproject.toml)
 silero-vad==5.1.2
     # via open-llm-vtuber (pyproject.toml)
