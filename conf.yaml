@@ -1,0 +1,15 @@
+# conf.yaml mínimo para compañero IA
+
+memory:
+  provider: supabase
+  supabase_url: ${SUPABASE_URL}
+  supabase_key: ${SUPABASE_KEY}
+
+llm:
+  provider: openrouter
+  api_key: ${OPENROUTER_API_KEY}
+  model: openai/gpt-4o-mini   # puedes cambiar a otro modelo disponible en OpenRouter
+
+server:
+  host: 0.0.0.0
+  port: ${PORT}
